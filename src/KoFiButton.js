@@ -20,7 +20,7 @@ export default function KoFiButton({
           <span class="kofitext">
             <img
               src="https://ko-fi.com/img/cup-border.png"
-              class="kofiimg"
+              className="kofiimg"
               alt="Ko-Fi button"
             />
             {label?label:null}
